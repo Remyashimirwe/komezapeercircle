@@ -33,7 +33,7 @@ export const metadata = {
     images: ["/og-image.png"],
   },
   icons: {
-    icon: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 22 28'%3E%3Cpath d='M11 2c-5 0-7 6-3 13l-6 11M11 2c5 0 7 6 3 13l6 11M8 15c2 3 4 3 6 0' stroke='%23c41e3a' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3C/svg%3E",
+    icon: [{ url: "/logo.png", type: "image/png", sizes: "512x512" }],
     apple: "/logo.png",
   },
 };
