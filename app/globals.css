@@ -165,13 +165,17 @@ nav a[aria-current="page"] {
   margin-left: 8px;
 }
 .ribbon-art {
+  position: relative;
+  width: 100%;
   max-width: 100%;
   justify-self: center;
+  overflow: hidden;
+  border-radius: 24px;
 }
-.ribbon-art svg {
+.ribbon-art .hero-image {
   width: 100%;
-  max-width: 300px;
-  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
   display: block;
 }
 
@@ -461,9 +465,6 @@ footer .wrap {
   .ribbon-art {
     order: -1;
   }
-  .ribbon-art svg {
-    max-width: 160px;
-  }
   .session dl {
     grid-template-columns: 1fr;
   }
@@ -483,19 +484,6 @@ footer .wrap {
   }
 }
 @media (prefers-reduced-motion: no-preference) {
-  .ribbon-art path.draw {
-    stroke-dasharray: 900;
-    stroke-dashoffset: 0;
-    animation: draw 2.4s ease-out both;
-  }
-  @keyframes draw {
-    from {
-      stroke-dashoffset: 900;
-    }
-    to {
-      stroke-dashoffset: 0;
-    }
-  }
 }
 .lang-switch {
   display: inline-flex;
