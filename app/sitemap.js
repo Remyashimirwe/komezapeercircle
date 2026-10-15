@@ -1,7 +1,15 @@
-const siteUrl = "https://www.komezapeercircle.info";
+const siteOrigin = new URL("https://www.komezapeercircle.info");
+
+const publicPaths = [
+  "/",
+  "/vision.html",
+  "/what-we-do.html",
+  "/founder.html",
+  "/contact.html",
+];
 
 export default function sitemap() {
-  return ["/", "/vision.html", "/what-we-do.html", "/founder.html", "/contact.html"].map(
-    (path) => ({ url: `${siteUrl}${path}` }),
-  );
+  return publicPaths.map((path) => ({
+    url: new URL(path, siteOrigin).toString(),
+  }));
 }
