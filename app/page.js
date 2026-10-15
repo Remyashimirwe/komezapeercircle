@@ -17,8 +17,8 @@ export default function HomePage() {
           <p className="lead" data-i18n="hero_lead">Komeza Peer Circle brings young women together, including young women living with HIV, to talk freely about health, support each other, and end the stigma that keeps people apart.</p>
           <p className="kiny" data-i18n="hero_kiny">“Komeza” means keep going.</p>
           <p style={{ marginTop: "24px" }}>
-            <a className="btn" href="/contact.html" data-i18n="btn_join">Join the circle</a>
-            <a className="btn ghost" href="/what-we-do.html" data-i18n="nav_do">What we do</a>
+            <a className="btn" href="/contact" data-i18n="btn_join">Join the circle</a>
+            <a className="btn ghost" href="/what-we-do" data-i18n="nav_do">What we do</a>
           </p>
         </div>
         <div className="ribbon-art" aria-hidden="true">
@@ -40,22 +40,22 @@ export default function HomePage() {
             <p data-i18n="intro_p">Komeza Peer Circle is a free, confidential group that meets every week in Kanombe Sector, Kigali. Young women — whatever their HIV status — talk openly about health and well-being, support one another, and help end stigma in our community.</p>
           </div>
           <div className="cards">
-            <a className="card" href="/vision.html">
+            <a className="card" href="/vision">
               <h2 data-i18n="card_vision_h">Vision &amp; mission</h2>
               <p data-i18n="card_vision_p">Why we exist and what we are working towards.</p>
               <span className="arrow" data-i18n="card_more">Learn more →</span>
             </a>
-            <a className="card" href="/what-we-do.html">
+            <a className="card" href="/what-we-do">
               <h2 data-i18n="card_do_h">What we do</h2>
               <p data-i18n="card_do_p">The weekly circle, open talk, mental well-being and ending stigma.</p>
               <span className="arrow" data-i18n="card_more">Learn more →</span>
             </a>
-            <a className="card" href="/founder.html">
+            <a className="card" href="/founder">
               <h2 data-i18n="card_founder_h">Our founder</h2>
               <p data-i18n="card_founder_p">Meet UMULINGA G Jolly and why she started the circle.</p>
               <span className="arrow" data-i18n="card_more">Learn more →</span>
             </a>
-            <a className="card" href="/contact.html">
+            <a className="card" href="/contact">
               <h2 data-i18n="card_contact_h">Contact us</h2>
               <p data-i18n="card_contact_p">Join, volunteer or partner with the circle.</p>
               <span className="arrow" data-i18n="card_more">Learn more →</span>

@@ -66,7 +66,7 @@ export default function WhatWeDoPage() {
             <span><b>·</b><span data-i18n="v4">Hope</span></span>
           </div>
 
-          <p style={{ marginTop: "28px" }}><a className="btn" href="/contact.html" data-i18n="btn_join">Join the circle</a></p>
+          <p style={{ marginTop: "28px" }}><a className="btn" href="/contact" data-i18n="btn_join">Join the circle</a></p>
         </div>
       </section>
     </main>

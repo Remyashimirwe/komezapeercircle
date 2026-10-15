@@ -2,10 +2,10 @@ const siteOrigin = new URL("https://www.komezapeercircle.info");
 
 const publicPaths = [
   "/",
-  "/vision.html",
-  "/what-we-do.html",
-  "/founder.html",
-  "/contact.html",
+  "/vision",
+  "/what-we-do",
+  "/founder",
+  "/contact",
 ];
 
 export default function sitemap() {

@@ -1,8 +1,8 @@
 const links = [
-  ["vision", "/vision.html", "nav_vision", "Vision"],
-  ["what-we-do", "/what-we-do.html", "nav_do", "What we do"],
-  ["founder", "/founder.html", "nav_founder", "Founder"],
-  ["contact", "/contact.html", "nav_contact", "Contact"],
+  ["vision", "/vision", "nav_vision", "Vision"],
+  ["what-we-do", "/what-we-do", "nav_do", "What we do"],
+  ["founder", "/founder", "nav_founder", "Founder"],
+  ["contact", "/contact", "nav_contact", "Contact"],
 ];
 
 export default function Header({ active }) {

@@ -31,7 +31,7 @@ export default function VisionPage() {
             <p data-i18n="story_p1">In our community, some young girls living with HIV were isolating themselves and missing community activities because of fear and stigma. Nobody was talking about it.</p>
             <p data-i18n="story_p2">UMULINGA G Jolly started a peer wellness group so they would have a place to talk, be heard and support each other. In September 2025, with the support of the Kanombe Sector office, which provided a meeting room, the group began meeting every week. By March 2026, 15 young women had taken part.</p>
           </div>
-          <p style={{ marginTop: "28px" }}><a className="btn ghost" href="/what-we-do.html" data-i18n="card_do_h">What we do</a></p>
+          <p style={{ marginTop: "28px" }}><a className="btn ghost" href="/what-we-do" data-i18n="card_do_h">What we do</a></p>
         </div>
       </section>
     </main>

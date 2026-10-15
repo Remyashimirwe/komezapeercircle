@@ -21,7 +21,7 @@ export default function FounderPage() {
             <p className="lead" data-i18n="f_lead">Founder of Komeza Peer Circle, after finishing her studies in 2025.</p>
             <p data-i18n="f_p1">Jolly founded Komeza Peer Circle after finishing her studies in 2025. She is passionate about community health education and about ending the stigma around HIV, so that no young woman has to face it alone.</p>
             <p data-i18n="f_p2">She plans to keep growing the circle and to bring this model of peer support to more communities across Rwanda.</p>
-            <p style={{ marginTop: "20px" }}><a className="btn ghost" href="/contact.html" data-i18n="nav_contact">Contact</a></p>
+            <p style={{ marginTop: "20px" }}><a className="btn ghost" href="/contact" data-i18n="nav_contact">Contact</a></p>
           </div>
         </div>
       </section>
