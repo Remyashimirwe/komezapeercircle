@@ -15,7 +15,7 @@ export default function WhatWeDoPage() {
           <p className="crumbs"><a href="/" data-i18n="crumb_home">Home</a> / <span aria-current="page">What we do</span></p>
           <span className="label" data-i18n="do_label">Our work</span>
           <h1 data-i18n="do_title">What we do</h1>
-          <p className="lead" data-i18n="do_lead">What we do every week in Kanombe, Kigali — sharing experience, talking about health, and helping young women take part in community life again.</p>
+          <p className="lead" data-i18n="do_lead">What we do every week in Kanombe, Kigali: sharing experience, talking about health, and helping young women take part in community life again.</p>
           <div className="do-list">
             <div className="do-item">
               <div className="ic"><svg viewBox="0 0 24 24"><circle cx="8" cy="9" r="3" /><circle cx="16" cy="9" r="3" /><path d="M2 20c1-4 4-5 6-5s5 1 6 5M12 20c1-3 2-5 4-5s4 1 5 5" /></svg></div>

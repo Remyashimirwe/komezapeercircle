@@ -6,7 +6,7 @@ const siteUrl = "https://www.komezapeercircle.info";
 export const metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Komeza Peer Circle — HIV peer support for young women in Kigali",
+    default: "Komeza Peer Circle: HIV peer support for young women in Kigali",
     template: "%s | Komeza Peer Circle",
   },
   description:

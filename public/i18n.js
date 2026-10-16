@@ -20,7 +20,7 @@
     intro_label: "Murakaza neza",
     intro_title: "Murakaza neza muri Komeza Peer Circle",
     intro_p:
-      "Komeza Peer Circle ni itsinda ry'ubuntu, rihura buri cyumweru mu Umurenge wa Kanombe, Kigali. Abakobwa n'abagore bakiri bato — uko baba bahagaze kose ku bijyanye na virusi itera SIDA — baganira mu bwisanzure ku buzima n'imibereho myiza, bagafashanya, kandi barwanyisa akato mu muryango wacu.",
+      "Komeza Peer Circle ni itsinda ry'ubuntu, rihura buri cyumweru mu Umurenge wa Kanombe, Kigali. Abakobwa n'abagore bakiri bato, uko baba bahagaze kose ku bijyanye na virusi itera SIDA, baganira mu bwisanzure ku buzima n'imibereho myiza, bagafashanya, kandi barwanyisa akato mu muryango wacu.",
     cta_title: "Ufite ubugeni? Twandikire.",
     cta_p:
       "Dushimira abashakashatsi n'abatanga umugisha. Twandikire uwagira ikibazo cyangwa ufise ubugeni bwo gutsindikira ubujyanama.",
@@ -49,7 +49,7 @@
     do_label: "Ibikorwa byacu",
     do_title: "Ibyo dukora",
     do_lead:
-      "Ibyo dukora buri cyumweru mu Kanombe, Kigali — gusangira uburambe, kuganira ku buzima, no gufashanya abagore bakiri bato kongera kwitabira umuryango.",
+      "Ibyo dukora buri cyumweru mu Kanombe, Kigali: gusangira uburambe, kuganira ku buzima, no gufashanya abagore bakiri bato kongera kwitabira umuryango.",
     do1_h: "Guhura buri cyumweru",
     do1_p:
       "Abakobwa n'abagore bakiri bato bahurira buri cyumweru mu cyumba cy'inama cy'Ibiro by'Umurenge wa Kanombe (Akarere ka Kicukiro), bakaganira ku byo banyuzemo kandi bagaterana inkunga.",
