@@ -50,9 +50,9 @@ export default function HomePage() {
             <div className="prose">
               <p data-i18n="intro_p">
                 Komeza Peer Circle is a free, confidential group that meets
-                every week in Kanombe Sector, Kigali. Young women — whatever
-                their HIV status — talk openly about health and well-being,
-                support one another, and help end stigma in our community.
+                every week in Kanombe Sector, Kigali. Young women whatever their
+                HIV status talk openly about health and well being, support one
+                another, and help end stigma in our community.
               </p>
             </div>
             <div className="cards">
@@ -68,7 +68,7 @@ export default function HomePage() {
               <a className="card" href="/what-we-do">
                 <h2 data-i18n="card_do_h">What we do</h2>
                 <p data-i18n="card_do_p">
-                  The weekly circle, open talk, mental well-being and ending
+                  The weekly circle, open talk, mental well being and ending
                   stigma.
                 </p>
                 <span className="arrow" data-i18n="card_more">
